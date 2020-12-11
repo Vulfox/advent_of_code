@@ -1,5 +1,5 @@
 const std = @import("std");
-const input: []const u8 = @embedFile("input.txt");
+const input: []const u8 = @embedFile("example_input.txt");
 const Allocator = std.mem.Allocator;
 const ArrayList = std.ArrayList;
 
